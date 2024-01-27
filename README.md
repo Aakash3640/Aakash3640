@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Muja bhi nhi pta
+- 📫 How to reach me You have my number right.
 
 <!---
 Aakash3640/Aakash3640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
