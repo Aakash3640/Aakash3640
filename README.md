@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [aakash3640.github.io](aakash3640.github.io)
+- 👨‍💻 All of my live projects are available at [aakash3640.github.io](aakash3640.github.io)
 
 - 📫 How to reach me **aakash3640@gmail.com**
 
