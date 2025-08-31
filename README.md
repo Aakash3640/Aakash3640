@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [aakash3640.github.io](aakash3640.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aakash3640.github.io/)
 
 - 📫 How to reach me **aakash3640@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16bfuIpHDUY-MDS-q5EHfO05fkAiRfxG6/view?usp=sharing](https://drive.google.com/file/d/16bfuIpHDUY-MDS-q5EHfO05fkAiRfxG6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16bfuIpHDUY-MDS-q5EHfO05fkAiRfxG6/view?usp=sharing)
 
 - ⚡ Fun fact **I love App tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aakash3640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aakash3640" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakash3640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aakash3640" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
